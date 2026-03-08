@@ -16,7 +16,7 @@ Professional Windows firewall component suite for Delphi VCL, powered by the Win
 <br>
 
 <p align="center">
-  <img src="FirewallComponent.png" alt="Firewall Component" width="86%">
+  <img src="FirewallComponent.png" alt="Firewall Component">
 </p>
 
 <br>
