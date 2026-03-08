@@ -9,7 +9,9 @@ Professional Windows firewall component suite for Delphi VCL, powered by the Win
 
 ## Preview
 
-![Demo](Preview.gif)
+<p align="center">
+  <video src="Preview.mp4" controls width="700"></video>
+</p>
 
 <p align="center">
   <img src="FirewallPreview.png" alt="Firewall Preview" width="92%">
