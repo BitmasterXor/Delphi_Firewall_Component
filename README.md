@@ -204,6 +204,13 @@ end;
 
 ## Author
 
-**Made By BitmasterXor And Friends With ❤️ for the Delphi Community**
-Malware Researcher / Delphi Developer  
-GitHub: https://github.com/BitmasterXor
+<p align="center">
+  <strong>Made by BitmasterXor and friends, with love for the Delphi community.</strong>
+  <br><br>
+  Malware Researcher • Delphi Developer
+  <br><br>
+  <a href="https://github.com/BitmasterXor">
+    <img src="https://img.shields.io/badge/GitHub-BitmasterXor-181717?style=for-the-badge&logo=github" alt="GitHub: BitmasterXor">
+  </a>
+</p>
+
